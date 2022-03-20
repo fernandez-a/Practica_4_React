@@ -1,0 +1,4 @@
+DB_USER = 
+DB_PWD = 
+Remember to add the cluster without the @ cluster0.g6dfr.mongodb.net
+CLUSTER = 
