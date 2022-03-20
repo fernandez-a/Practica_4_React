@@ -1,7 +1,7 @@
 # Practica 4
 
 Realiza por Alejandro Fernandez y Pablo Hernando
-
+To be able to use the react website you need to run the api and the react app separately.
 
 ## Available Scripts
 
